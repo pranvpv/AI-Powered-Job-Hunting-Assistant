@@ -30,9 +30,7 @@ Results Dashboard    →  Ranked jobs, match scores, cover letters
 
 - **📄 PDF Resume Parsing** — Automatically extracts your skills, experience, and role from any PDF resume
 - **🔍 LinkedIn Job Discovery** — Custom scraper finds real, live job listings matching your profile
-- **📊 AI Match Scoring** — Each job is scored 0–100% based on how well your CV fits
 - **⚡ Skill Gap Detection** — Identifies exactly what skills you're missing across all listings
-- **✉️ Cover Letter Generation** — Tailored cover letters generated per job
 - **🎯 Location-Aware Search** — Target jobs in any city or region
 - **🤖 Sequential Agent Animation** — Visual pipeline showing each agent working in real time
 - **📋 Application Tracker** — Track applied jobs, statuses, and follow-up reminders
